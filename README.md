@@ -26,3 +26,12 @@ The second query helped find what were the top three selling products based on t
 
 ## Query 3
 Going off on the query before, this query helps show the total revenue for each category.  Both tables were joined on Product ID, the sum of units sold and total revenue were also aggregated.  The results show that there are 12 different categories in this sporting goods store that generate revenue.  The highest total revenue was from the **OUTDOORS** category with a total revenue of $5,688,483.11 and 45,527 units sold. The category with the lowest revenue was **SWIM SPORTS** with a revenue of $286,498.79 and 8,270 units sold.
+
+## Query 4
+For the fourth query, I calculated the average order value for each customer status (Silver, Platinum, and Gold) by grouping orders on status and using the AVG() function on the total retail prices.  The three averages did not differ too much from each other, meaning the customer status does not impact the average total per order. 
+
+**Silver is 139.23**
+
+**Platinum is 139.20**
+
+**Gold is 137.89**
