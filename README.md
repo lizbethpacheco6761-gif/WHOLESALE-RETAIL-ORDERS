@@ -10,3 +10,5 @@ After downloading my files from Kaggle, I created a new database in DBeaver and 
 
 My **PRIMARY KEY** from the product_supplier table is **Product ID**.
 In the orders table the **PRIMARY KEY** is **Order ID** and the **FOREIGN KEY** is **Product ID**.
+
+I then checked for missing values & duplicates and found that this dataset had none! 
