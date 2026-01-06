@@ -17,3 +17,9 @@ I then checked for missing values & duplicates and found that this dataset had n
 For the first query, the goal was to see what year had the highest total revenue.  The year was extracted from the dates to focus on yearly sales.  The total revenue was also calculated for each year, then these results were grouped by year and ordered by total revenue. 
 
 **The year with the highest revenue was 2021 with $5,936,507.**
+
+
+## Query 2
+The second query helped find what were the top three selling products based on total revenue.  Both tables from our dataset were joined using the Product ID. Aggregation was used to find the total of units sold & the total revenue.  The top three selling items were all in the outdoor category, this tells us that outdoor products are a significant contributor to the revenue for the store. 
+
+**The top three products sold were: Family Holiday 4, Hurricane 4, and Family Holiday 6.**
