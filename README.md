@@ -54,3 +54,5 @@ For the final query, I used a CTE to show the average order value by product cat
 
 <img width="559" height="330" alt="image" src="https://github.com/user-attachments/assets/6c38730e-e68f-4a33-adbf-bfa9b5611a99" />
 
+### Conclusion
+Using SQLite, this project analyzed sales, product, and customer data from a sporting goods retailer between 2017-2021.  The analysis showed that in 2021, the retailer experienced a significant increase in revenue growth.  The outdoors product category played a significant role in the retailer's revenue.  In this analysis, we were able to find out there was little variation in the average order value across the three customer statuses.  Through the use of SQL, this dataset was turned into business insights!
